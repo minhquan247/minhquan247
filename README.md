@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&separator=;&lines=Ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20Nguy%E1%BB%85n%20Minh%20Ph%C6%B0%C6%A1ng%21%20%F0%9F%91%8B;L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20Th%C3%A1i%20Nguy%C3%AAn%2C%20Vi%E1%BB%87t%20Nam;%C4%90am%20m%C3%AA%20Web%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20Machine%20Learning" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&separator=;&lines=Ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20Nguy%E1%BB%85n%20Minh%20Ph%C6%B0%C6%A1ng%21%20%F0%9F%91%8B;L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20Th%C3%A1i%20Nguy%C3%AAn%2C%20Vi%E1%BB%87t%20Nam;%C4%90am%20m%C3%AA%20Web%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20Machine%20Learning](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&separator=;&lines=Ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20Minh%20Qu%C3%A2n%21%20%F0%9F%91%8B;L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20Th%C3%A1i%20Nguy%C3%AAn%2C%20Vi%E1%BB%87t%20Nam;%C4%90am%20m%C3%AA%20Web%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20Machine%20Learning)" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/Status-Currently_Coding-22D3EE?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" alt="Status: Currently Coding" />
 <img src="https://komarev.com/ghpvc/?username=phuongtryhard06&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
