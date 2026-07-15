@@ -1,27 +1,19 @@
 <div align="center">
 
-<!-- Đặt file banner.svg cùng thư mục với README.md -->
-
 <img src="./banner.svg" width="100%" alt="Minh Quân Developer Banner" />
 
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Qu%C3%A2n%21+%F0%9F%91%8B;L%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+t%E1%BA%A1i+Th%C3%A1i+Nguy%C3%AAn%2C+Vi%E1%BB%87t+Nam;%C4%90am+m%C3%AA+Web+Development+%E2%80%A2+AI+%E2%80%A2+Machine+Learning"
-alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Qu%C3%A2n%21+%F0%9F%91%8B;Full-stack+Developer+%E2%80%A2+Python+%E2%80%A2+ASP.NET+Core;X%C3%A2y+d%E1%BB%B1ng+Website+%E2%80%A2+Ph%E1%BA%A7n+m%E1%BB%81m+%E2%80%A2+C%C3%B4ng+c%E1%BB%A5+t%E1%BB%B1+%C4%91%E1%BB%99ng+h%C3%B3a"
+alt="Typing introduction"
 />
 
 <br/><br/>
 
-<img
-src="https://img.shields.io/badge/Status-Currently_Coding-22D3EE?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"
-alt="Currently Coding"
-/>
-
-<img
-src="https://komarev.com/ghpvc/?username=phuongtryhard06&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
-alt="Profile Views"
-/>
+<img src="https://img.shields.io/badge/Status-Currently_Coding-22D3EE?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" alt="Currently Coding" />
+<img src="https://img.shields.io/badge/Focus-Python_%26_Web_Development-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python and Web Development" />
+<img src="https://komarev.com/ghpvc/?username=minhquan247&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -29,54 +21,71 @@ alt="Profile Views"
 
 ## 👨‍💻 Giới thiệu
 
-Xin chào, mình là **Minh Quân**, hiện đang là sinh viên năm 2 chuyên ngành Công nghệ thông tin tại Thái Nguyên, Việt Nam.
+Xin chào, mình là **Minh Quân**, một lập trình viên trẻ tại **Hà Nội, Việt Nam**.
 
-Mình tập trung vào việc xây dựng các ứng dụng web có hiệu năng tốt, giao diện hiện đại và kiến trúc dễ mở rộng. Bên cạnh phát triển web, mình cũng quan tâm đến Trí tuệ nhân tạo, Large Language Models và cách tích hợp AI vào các sản phẩm thực tế.
+Mình tập trung phát triển **website**, **phần mềm quản lý**, **công cụ tự động hóa** và các ứng dụng tích hợp **AI**. Mình yêu thích việc biến ý tưởng thành sản phẩm thực tế bằng mã nguồn rõ ràng, giao diện hiện đại và kiến trúc dễ mở rộng.
 
-* 🔭 Đang phát triển các hệ thống quản lý bằng **ASP.NET Core** và **MERN Stack**
-* 🌱 Đang tìm hiểu sâu hơn về **Software Architecture**, **Clean Code** và **AI Integration**
-* 🎯 Mục tiêu: Trở thành một **Full-stack Developer** có khả năng xây dựng sản phẩm hoàn chỉnh
-* ⚡ Sở thích: Lập trình, công nghệ phần cứng và Liên Quân Mobile
+* 🔭 Đang xây dựng các dự án bằng **Python**, **ASP.NET Core** và **MERN Stack**
+* 🌱 Đang học sâu hơn về **FastAPI**, **Clean Architecture**, **RESTful API** và **AI Integration**
+* 🤖 Quan tâm đến **Automation**, **LLM**, **OpenAI API** và **Gemini API**
+* 🎯 Mục tiêu: Trở thành **Full-stack Developer** có khả năng xây dựng sản phẩm hoàn chỉnh
+* ⚡ Sở thích: Lập trình, công nghệ, phần cứng và phát triển các công cụ hữu ích
 
 ---
 
 ## 🛠️ Công nghệ và công cụ
 
-### Backend Development
+### 💻 Ngôn ngữ lập trình
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-8B5CF6?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Frontend Development
+### ⚙️ Backend Development
 
-<p>
-  <img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-22D3EE?style=for-the-badge&logo=javascript&logoColor=0D1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-22D3EE?style=for-the-badge&logo=html5&logoColor=0D1117" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-22D3EE?style=for-the-badge&logo=css3&logoColor=0D1117" alt="CSS3" />
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
-### Cơ sở dữ liệu
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-38BDF8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MongoDB-38BDF8?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### AI và API
+### 🗄️ Cơ sở dữ liệu
 
-<p>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### 🐍 Python, AI và Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
 </p>
 
-### Công cụ phát triển
+### 🔧 Công cụ phát triển
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
@@ -90,20 +99,20 @@ Mình tập trung vào việc xây dựng các ứng dụng web có hiệu năng
 
 <table>
   <tr>
-    <td>🔭 <strong>Đang phát triển</strong></td>
-    <td>Hệ thống quản lý bán hàng bằng ASP.NET Core</td>
+    <td>🐍 <strong>Python</strong></td>
+    <td>API, Automation, xử lý dữ liệu và tích hợp AI</td>
   </tr>
   <tr>
-    <td>💊 <strong>Dự án khác</strong></td>
-    <td>Hệ thống quản lý nhà thuốc sử dụng MERN Stack</td>
+    <td>🌐 <strong>Web Development</strong></td>
+    <td>ASP.NET Core, React, Node.js, FastAPI và Django</td>
   </tr>
   <tr>
-    <td>🌱 <strong>Đang học</strong></td>
-    <td>Kiến trúc phần mềm, Clean Architecture và tích hợp AI</td>
+    <td>🏗️ <strong>Kiến trúc</strong></td>
+    <td>Clean Code, Clean Architecture và RESTful API</td>
   </tr>
   <tr>
-    <td>🤖 <strong>Quan tâm</strong></td>
-    <td>LLM, Gemini API, OpenAI API và AI-powered Web Applications</td>
+    <td>🤖 <strong>AI</strong></td>
+    <td>LLM, OpenAI API, Gemini API và AI-powered Applications</td>
   </tr>
 </table>
 
@@ -115,25 +124,19 @@ Mình tập trung vào việc xây dựng các ứng dụng web có hiệu năng
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api?username=phuongtryhard06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6"
-alt="GitHub Statistics"
+src="https://github-readme-stats.vercel.app/api?username=minhquan247&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+alt="Minh Quân GitHub Statistics"
 />
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongtryhard06&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
-alt="Most Used Languages"
-/>
-
-<br/>
-
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=phuongtryhard06&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280"
-alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=minhquan247&theme=tokyonight&hide_border=true&locale=vi"
+alt="Minh Quân GitHub Streak"
 />
 
 </div>
+
+> Thẻ ngôn ngữ sẽ có dữ liệu chính xác hơn sau khi các repository chứa mã nguồn được đặt ở chế độ công khai.
 
 ---
 
@@ -142,9 +145,9 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=phuongtryhard06&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=minhquan247&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
-alt="GitHub Activity Graph"
+alt="Minh Quân GitHub Activity Graph"
 />
 
 </div>
@@ -155,25 +158,12 @@ alt="GitHub Activity Graph"
 
 <div align="center">
 
-<a href="https://github.com/phuongtryhard06">
-  <img
-    src="https://img.shields.io/badge/GitHub-phuongtryhard06-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
-    alt="GitHub"
-  />
+<a href="https://github.com/minhquan247">
+  <img src="https://img.shields.io/badge/GitHub-minhquan247-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
-<a href="mailto:mp14122006py@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-mp14122006py%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
-    alt="Email"
-  />
-</a>
-
-<a href="https://www.tiktok.com/@nmp.dev">
-  <img
-    src="https://img.shields.io/badge/TikTok-%40nmp.dev-38BDF8?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117"
-    alt="TikTok"
-  />
+<a href="https://t.me/minhquan2006">
+  <img src="https://img.shields.io/badge/Telegram-minhquan2006-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" />
 </a>
 
 <br/><br/>
