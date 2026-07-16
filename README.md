@@ -1,1044 +1,920 @@
+<!--
+  GitHub Profile README
+  Username: minhquan247
+  Author: Minh Quân
+-->
+
 <div align="center">
 
-<h1>MINH QUÂN</h1>
+<img
+  src="./banner.svg"
+  width="100%"
+  alt="Minh Quân Developer Banner"
+/>
 
-<p><strong>Sinh viên năm 2 tại ICTU</strong></p>
-<p><strong>Full-stack Developer | MMO | Social Media Support | Automation | AI Integration</strong></p>
-<p>Python | PHP | JavaScript | HTML | CSS | C# | SQL | API | Website | App | Bot</p>
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Qu%C3%A2n%21+%F0%9F%91%8B;Sinh+vi%C3%AAn+n%C4%83m+2+t%E1%BA%A1i+ICTU+%F0%9F%8E%93;8%2B+n%C4%83m+kinh+nghi%E1%BB%87m+MMO+v%C3%A0+d%E1%BB%8Bch+v%E1%BB%A5+s%E1%BB%91;Python+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Facebook+Support+%E2%80%A2+TikTok+%E2%80%A2+Website+%E2%80%A2+App;Automation+%E2%80%A2+API+%E2%80%A2+Bot+%E2%80%A2+AI+Integration"
+  alt="Minh Quân Typing Introduction"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Education-ICTU_Student-22D3EE?style=for-the-badge&labelColor=0D1117"
+  alt="ICTU Student"
+/>
+
+<img
+  src="https://img.shields.io/badge/Experience-8%2B_Years_MMO-8B5CF6?style=for-the-badge&labelColor=0D1117"
+  alt="8 Years MMO Experience"
+/>
+
+<img
+  src="https://img.shields.io/badge/Role-Full--stack_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"
+  alt="Full-stack Developer"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Code-Python_%E2%80%A2_PHP_%E2%80%A2_JavaScript-F59E0B?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=0D1117"
+  alt="Python PHP JavaScript"
+/>
+
+<img
+  src="https://img.shields.io/badge/Social-Facebook_%E2%80%A2_TikTok_%E2%80%A2_Telegram-1877F2?style=for-the-badge&logo=meta&logoColor=white&labelColor=0D1117"
+  alt="Social Media Support"
+/>
+
+<img
+  src="https://img.shields.io/badge/Development-Website_%E2%80%A2_App_%E2%80%A2_API-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"
+  alt="Website App API"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Facebook-Account_Recovery-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"
+  alt="Facebook Account Recovery"
+/>
+
+<img
+  src="https://img.shields.io/badge/Focus-Automation_%E2%80%A2_Bot_%E2%80%A2_AI-9333EA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"
+  alt="Automation Bot AI"
+/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=minhquan247&label=Profile%20Views&color=22D3EE&style=for-the-badge"
+  alt="GitHub Profile Views"
+/>
 
 </div>
 
 ---
 
-## Giới thiệu
+## 👨‍💻 Giới thiệu
 
-Xin chào, mình là **Minh Quân**, hiện là **sinh viên năm 2 tại Trường Đại học Công nghệ Thông tin và Truyền thông - Đại học Thái Nguyên (ICTU)**.
+Xin chào, mình là **Minh Quân**, hiện đang là **sinh viên năm 2 tại ICTU** và phát triển bản thân theo định hướng **Full-stack Developer**.
 
-Mình phát triển theo định hướng **Full-stack Developer**, tập trung vào xây dựng website, ứng dụng, phần mềm quản lý, RESTful API, bot, công cụ tự động hóa và các sản phẩm tích hợp trí tuệ nhân tạo.
+Mình có hơn **8 năm kinh nghiệm làm MMO**, vận hành dịch vụ số, support mạng xã hội, phát triển website, ứng dụng, API, bot và các công cụ tự động hóa.
 
-Bên cạnh việc học tập và phát triển phần mềm, mình có **8 năm kinh nghiệm trong lĩnh vực MMO và dịch vụ số**. Kinh nghiệm này giúp mình hiểu rõ hơn về quy trình vận hành dịch vụ trực tuyến, quản lý khách hàng, xử lý đơn hàng, chăm sóc người dùng, support mạng xã hội, quản trị hệ thống và tự động hóa công việc.
+Mình tập trung chuyên sâu vào:
 
-Mục tiêu của mình là kết hợp kinh nghiệm vận hành thực tế với kỹ năng lập trình để tạo ra các sản phẩm có tính ứng dụng cao, dễ sử dụng, bảo mật, ổn định và có khả năng mở rộng.
+- **Python** cho API, bot, automation, xử lý dữ liệu và tích hợp AI
+- **PHP** cho website dịch vụ, hệ thống quản lý và backend
+- **JavaScript** cho frontend, backend Node.js và ứng dụng tương tác
+- **HTML/CSS** cho giao diện responsive và landing page
+- **C# / ASP.NET Core** cho phần mềm và hệ thống quản lý
+- **Facebook, TikTok và social media support**
+- **Website, Web App, Desktop App và RESTful API**
+- **Telegram Bot, chatbot và hệ thống thông báo tự động**
+- **OpenAI API, Gemini API và AI-powered Applications**
+- **Dashboard, báo cáo, quản lý khách hàng và đơn hàng**
+
+Mục tiêu của mình là kết hợp kinh nghiệm MMO, kiến thức lập trình và tư duy sản phẩm để xây dựng các hệ thống có khả năng vận hành thực tế, bảo mật, dễ sử dụng và dễ mở rộng.
 
 ---
 
-## Thông tin tổng quan
+## 🧑‍🎓 Thông tin nhanh
 
 <table>
   <tr>
-    <td width="30%"><strong>Họ và tên</strong></td>
+    <td width="30%"><strong>👤 Họ và tên</strong></td>
     <td>Minh Quân</td>
   </tr>
+
   <tr>
-    <td><strong>Học tập</strong></td>
+    <td><strong>🎓 Học tập</strong></td>
     <td>Sinh viên năm 2 tại ICTU</td>
   </tr>
+
   <tr>
-    <td><strong>Định hướng</strong></td>
+    <td><strong>💼 Kinh nghiệm</strong></td>
+    <td>8+ năm làm MMO và vận hành dịch vụ số</td>
+  </tr>
+
+  <tr>
+    <td><strong>💻 Định hướng</strong></td>
     <td>Full-stack Developer</td>
   </tr>
+
   <tr>
-    <td><strong>Kinh nghiệm</strong></td>
-    <td>8 năm làm MMO, dịch vụ số và support mạng xã hội</td>
+    <td><strong>⌨️ Ngôn ngữ chính</strong></td>
+    <td>Python, PHP, JavaScript, HTML, CSS và C#</td>
   </tr>
+
   <tr>
-    <td><strong>Ngôn ngữ trọng tâm</strong></td>
-    <td>Python, PHP, JavaScript, HTML, CSS, C# và SQL</td>
+    <td><strong>🌐 Chuyên môn</strong></td>
+    <td>Website, App, API, Bot, Automation và AI Integration</td>
   </tr>
+
   <tr>
-    <td><strong>Lĩnh vực phát triển</strong></td>
-    <td>Website, Web App, Desktop App, API, Bot, Automation và AI</td>
+    <td><strong>📱 Dịch vụ</strong></td>
+    <td>Facebook Support, TikTok, Social Media và hệ thống MMO</td>
   </tr>
+
   <tr>
-    <td><strong>Lĩnh vực dịch vụ</strong></td>
-    <td>Facebook, TikTok, Instagram, Telegram, YouTube, Zalo và hệ thống MMO</td>
-  </tr>
-  <tr>
-    <td><strong>Khu vực</strong></td>
+    <td><strong>📍 Khu vực</strong></td>
     <td>Việt Nam</td>
   </tr>
 </table>
 
 ---
 
-## Định hướng chuyên môn
+## 💼 Kinh nghiệm MMO và dịch vụ số
 
-Mình tập trung phát triển theo các nhóm kỹ năng sau:
+Mình có hơn **8 năm kinh nghiệm làm MMO**, từng tìm hiểu, xây dựng và vận hành nhiều hệ thống phục vụ kinh doanh trực tuyến.
 
-1. Phát triển website và ứng dụng web hoàn chỉnh.
-2. Xây dựng backend, API và hệ thống xử lý dữ liệu.
-3. Thiết kế trang quản trị, dashboard và phần mềm quản lý.
-4. Phát triển bot và công cụ tự động hóa.
-5. Tích hợp API mạng xã hội và các dịch vụ bên thứ ba.
-6. Tích hợp mô hình AI vào website, ứng dụng và quy trình vận hành.
-7. Xây dựng hệ thống phục vụ MMO, thương mại điện tử và dịch vụ số.
-8. Thiết kế hệ thống xác thực, phân quyền, nhật ký hoạt động và bảo mật.
-9. Triển khai ứng dụng lên VPS, hosting và nền tảng đám mây.
-10. Theo dõi, bảo trì và nâng cấp sản phẩm sau khi triển khai.
+Thay vì chỉ xử lý công việc thủ công, mình ưu tiên xây dựng website, phần mềm, API và công cụ automation để tối ưu thời gian và giảm sai sót trong quá trình vận hành.
 
----
+### Các lĩnh vực mình tập trung
 
-## Kinh nghiệm MMO và dịch vụ số
-
-Mình có 8 năm kinh nghiệm tìm hiểu, vận hành và phát triển các mô hình MMO cùng nhiều loại dịch vụ trực tuyến.
-
-Các công việc và hệ thống mình quan tâm gồm:
-
-- Xây dựng website cung cấp dịch vụ số.
-- Xây dựng hệ thống quản lý đơn hàng.
-- Quản lý tài khoản khách hàng.
-- Quản lý số dư, giao dịch và lịch sử thanh toán.
-- Hệ thống cộng tác viên, đại lý và reseller.
-- Hệ thống ticket hỗ trợ khách hàng.
-- Hệ thống thông báo qua Telegram, email và webhook.
-- Dashboard theo dõi doanh thu và hoạt động.
-- Tự động hóa quy trình xử lý đơn hàng.
-- Kết nối API nhà cung cấp.
-- Đồng bộ dữ liệu giữa nhiều hệ thống.
-- Quản lý sản phẩm và dịch vụ.
-- Quản lý nội dung số.
-- Affiliate Marketing.
-- Thương mại điện tử.
-- Landing page phục vụ chiến dịch.
-- Website giới thiệu dịch vụ.
-- Công cụ chăm sóc khách hàng.
-- Công cụ tổng hợp và xuất báo cáo.
-- Hệ thống SaaS theo mô hình đăng ký.
-- Hệ thống nhiều cấp tài khoản.
-- Hệ thống đa người dùng và đa vai trò.
-- Quản lý nhật ký thao tác của nhân viên.
-- Tối ưu hóa quy trình vận hành bằng automation.
+- Xây dựng website cung cấp dịch vụ số
+- Hệ thống quản lý đơn hàng MMO
+- Hệ thống cộng tác viên và đại lý
+- Quản lý số dư và lịch sử giao dịch
+- Dashboard theo dõi doanh thu
+- Tự động hóa quy trình xử lý đơn
+- Bot nhận đơn và gửi thông báo
+- Kết nối API nhà cung cấp
+- Quản lý khách hàng và lịch sử sử dụng
+- Hệ thống ticket hỗ trợ khách hàng
+- Affiliate Marketing
+- Thương mại điện tử
+- Quản lý sản phẩm số
+- Xây dựng landing page bán hàng
+- Theo dõi hiệu suất chiến dịch
+- Quản lý nội dung mạng xã hội
+- Phân tích và xử lý dữ liệu
+- Tích hợp thanh toán
+- Bảo mật và phân quyền tài khoản
 
 ---
 
-## Facebook và hỗ trợ mạng xã hội
+## 🛡️ Facebook Support và khôi phục tài khoản
 
-Mình hỗ trợ các vấn đề mạng xã hội theo hướng chính chủ, minh bạch và tuân thủ quy trình của nền tảng.
+Mình hỗ trợ người dùng xử lý các vấn đề Facebook theo hướng **chính chủ, minh bạch và tuân thủ quy trình của Meta**.
 
 ### Hỗ trợ tài khoản Facebook
 
-- Hướng dẫn khôi phục tài khoản Facebook chính chủ.
-- Hỗ trợ xử lý tài khoản bị mất quyền truy cập.
-- Hướng dẫn bảo vệ tài khoản bị chiếm quyền.
-- Hỗ trợ kháng nghị tài khoản bị vô hiệu hóa.
-- Hỗ trợ xử lý tài khoản bị checkpoint.
-- Hướng dẫn xác minh danh tính.
-- Hỗ trợ xử lý mất email hoặc số điện thoại liên kết.
-- Kiểm tra các phiên đăng nhập bất thường.
-- Hướng dẫn thay đổi và bảo vệ mật khẩu.
-- Thiết lập xác thực hai lớp.
-- Kiểm tra trạng thái tài khoản.
-- Hướng dẫn sử dụng biểu mẫu hỗ trợ phù hợp.
-- Hỗ trợ báo cáo tài khoản giả mạo.
-- Hướng dẫn xử lý tài khoản bị giả danh.
-- Hỗ trợ kiểm tra cảnh báo bảo mật.
-- Hướng dẫn quản lý thiết bị đăng nhập.
-- Hỗ trợ tăng cường bảo mật tài khoản cá nhân.
-- Hướng dẫn lưu trữ mã khôi phục.
-- Hỗ trợ kiểm tra quyền truy cập ứng dụng bên thứ ba.
-- Hướng dẫn kiểm tra email thông báo chính thức từ Meta.
+- Hỗ trợ khôi phục tài khoản Facebook chính chủ
+- Hướng dẫn kháng nghị tài khoản bị vô hiệu hóa
+- Kiểm tra nguyên nhân tài khoản bị hạn chế
+- Hỗ trợ tài khoản bị checkpoint
+- Hỗ trợ xác minh danh tính chính chủ
+- Hỗ trợ xử lý mất quyền truy cập email hoặc số điện thoại
+- Hướng dẫn lấy lại tài khoản bị chiếm quyền
+- Kiểm tra phiên đăng nhập bất thường
+- Hướng dẫn thiết lập xác thực hai lớp
+- Tăng cường bảo mật tài khoản
+- Kiểm tra thiết bị và phiên đăng nhập
+- Hướng dẫn đổi mật khẩu và bảo vệ thông tin
+- Hỗ trợ xử lý tài khoản bị giả mạo
+- Hướng dẫn báo cáo tài khoản giả danh
+- Hỗ trợ gửi biểu mẫu kháng nghị phù hợp
+- Kiểm tra trạng thái tài khoản trong Account Status
 
-### Hỗ trợ Fanpage
+### Support Fanpage
 
-- Hỗ trợ khôi phục quyền quản trị Fanpage hợp pháp.
-- Kiểm tra quyền truy cập và vai trò trên Trang.
-- Hướng dẫn xử lý Fanpage bị hạn chế.
-- Hướng dẫn kháng nghị Fanpage bị vô hiệu hóa.
-- Thiết lập quyền quản trị an toàn.
-- Quản lý thành viên và phân quyền.
-- Kết nối Fanpage với Instagram.
-- Cấu hình Meta Business Suite.
-- Thiết lập chatbot chăm sóc khách hàng.
-- Quản lý tin nhắn và bình luận.
-- Thiết lập lịch đăng nội dung.
-- Dashboard theo dõi hoạt động Fanpage.
-- Hướng dẫn bảo vệ Trang khỏi bị chiếm quyền.
-- Kiểm tra tài khoản và đối tác đang quản lý Trang.
-- Hỗ trợ quản lý nhiều Fanpage trong một hệ thống.
-- Đồng bộ thông tin khách hàng từ biểu mẫu.
-- Tích hợp webhook và API phù hợp.
-- Xây dựng công cụ quản lý inbox.
-- Hệ thống phân công hội thoại cho nhân viên.
-- Lưu trữ lịch sử hỗ trợ khách hàng.
+- Hỗ trợ khôi phục quyền quản trị Fanpage
+- Kiểm tra vai trò và quyền truy cập Trang
+- Hỗ trợ xử lý Page bị hạn chế
+- Hướng dẫn kháng nghị Page bị vô hiệu hóa
+- Thiết lập quyền quản trị an toàn
+- Quản lý thành viên và phân quyền
+- Hỗ trợ kết nối Fanpage với Instagram
+- Cấu hình Meta Business Suite
+- Thiết lập chatbot Fanpage
+- Quản lý tin nhắn và bình luận
+- Hỗ trợ lên lịch nội dung
+- Dashboard theo dõi hoạt động Fanpage
+- Hướng dẫn bảo vệ Page khỏi bị chiếm quyền
+- Kiểm tra tài khoản đang quản lý Trang
 
-### Hỗ trợ Meta Business
+### Support Business Manager
 
-- Cấu hình Meta Business Portfolio.
-- Kiểm tra quyền quản trị doanh nghiệp.
-- Phân quyền tài khoản quảng cáo.
-- Quản lý Fanpage, Pixel và các tài sản doanh nghiệp.
-- Hướng dẫn xử lý hạn chế Business.
-- Kiểm tra trạng thái tài khoản quảng cáo.
-- Hướng dẫn xác minh doanh nghiệp.
-- Thiết lập bảo mật hai lớp.
-- Kiểm tra người dùng và đối tác.
-- Hỗ trợ xử lý mất quyền truy cập Business hợp pháp.
-- Cấu hình Meta Pixel.
-- Kết nối website và tên miền.
-- Kiểm tra quyền chia sẻ tài sản.
-- Xây dựng dashboard theo dõi tài sản.
-- Hỗ trợ tổ chức quyền truy cập theo vai trò.
-- Quản lý nhật ký thay đổi và quy trình bàn giao.
-
-### Hỗ trợ TikTok
-
-- Hướng dẫn bảo mật tài khoản TikTok.
-- Hỗ trợ khôi phục tài khoản chính chủ.
-- Hướng dẫn gửi yêu cầu kháng nghị.
-- Kiểm tra trạng thái tài khoản.
-- Quản lý nội dung và lịch đăng.
-- Xây dựng dashboard thống kê.
-- Hỗ trợ TikTok Business.
-- Hỗ trợ TikTok Shop.
-- Quản lý sản phẩm và đơn hàng.
-- Theo dõi doanh thu và hiệu suất.
-- Tích hợp API được nền tảng cho phép.
-- Xây dựng landing page cho chiến dịch.
-- Công cụ quản lý nội dung.
-- Hệ thống tổng hợp dữ liệu báo cáo.
-- Đồng bộ thông tin đơn hàng.
-- Quản lý khách hàng và lịch sử mua hàng.
-
-### Hỗ trợ Instagram
-
-- Hướng dẫn bảo mật tài khoản.
-- Hỗ trợ khôi phục tài khoản chính chủ.
-- Kết nối Instagram với Fanpage.
-- Quản lý tài khoản Instagram Business.
-- Hỗ trợ quản lý nội dung.
-- Hệ thống lên lịch nội dung.
-- Quản lý tin nhắn khách hàng.
-- Đồng bộ dữ liệu với hệ thống CRM.
-- Dashboard theo dõi hoạt động.
-- Hướng dẫn báo cáo tài khoản giả mạo.
-- Hỗ trợ thiết lập xác thực hai lớp.
-- Tích hợp API được phép.
-
-### Hỗ trợ Telegram
-
-- Phát triển Telegram Bot.
-- Bot bán hàng.
-- Bot nhận đơn.
-- Bot chăm sóc khách hàng.
-- Bot gửi thông báo.
-- Bot quản lý nhóm.
-- Bot quản lý thành viên.
-- Bot kiểm tra trạng thái dịch vụ.
-- Bot thống kê doanh thu.
-- Bot báo cáo hệ thống.
-- Bot tiếp nhận ticket.
-- Bot quản lý mã giảm giá.
-- Bot phân quyền người dùng.
-- Tích hợp thanh toán.
-- Tích hợp webhook.
-- Kết nối Telegram với website và ứng dụng.
-
-### Hỗ trợ YouTube và Zalo
-
-- Quản lý dữ liệu kênh YouTube.
-- Tích hợp YouTube Data API.
-- Theo dõi video và hiệu suất nội dung.
-- Xây dựng dashboard báo cáo.
-- Hệ thống lấy dữ liệu tự động.
-- Quản lý Zalo Official Account.
-- Xây dựng chatbot Zalo.
-- Tích hợp Zalo API.
-- Gửi thông báo đến khách hàng.
-- Đồng bộ dữ liệu Zalo với CRM.
-- Quản lý hội thoại và lịch sử chăm sóc khách hàng.
+- Hỗ trợ cấu hình Meta Business Manager
+- Kiểm tra quyền quản trị doanh nghiệp
+- Phân quyền tài khoản quảng cáo
+- Quản lý Page, Pixel và tài sản doanh nghiệp
+- Hỗ trợ kháng nghị hạn chế Business
+- Kiểm tra trạng thái tài khoản quảng cáo
+- Hướng dẫn xác minh doanh nghiệp
+- Thiết lập bảo mật hai lớp
+- Kiểm tra người dùng và đối tác
+- Hỗ trợ xử lý mất quyền truy cập Business
+- Cấu hình Meta Pixel
+- Kết nối website và tên miền
+- Kiểm tra tài sản bị chia sẻ sai quyền
 
 ### Nguyên tắc hỗ trợ
 
-Mình chỉ hỗ trợ tài khoản chính chủ hoặc người có quyền quản trị hợp pháp. Không hỗ trợ hack, phishing, chiếm đoạt tài khoản, giả mạo giấy tờ, vượt qua cơ chế bảo mật, đánh cắp dữ liệu hoặc truy cập trái phép vào tài sản của người khác.
+> Chỉ hỗ trợ tài khoản chính chủ hoặc người có quyền quản trị hợp pháp. Không hỗ trợ hack, phishing, bypass bảo mật, giả mạo giấy tờ, chiếm đoạt tài khoản hoặc truy cập trái phép vào tài sản của người khác.
 
 ---
 
-## Phát triển website
-
-Mình quan tâm đến việc xây dựng các loại website sau:
-
-- Website giới thiệu cá nhân và doanh nghiệp.
-- Website bán hàng.
-- Website thương mại điện tử.
-- Website cung cấp dịch vụ số.
-- Website quản lý đơn hàng MMO.
-- Website quản lý khách hàng.
-- Website quản lý cộng tác viên.
-- Website quản lý đại lý.
-- Website quản lý kho.
-- Website quản lý sản phẩm.
-- Website quản lý nhân viên.
-- Website quản lý sinh viên.
-- Website đặt lịch.
-- Website booking.
-- Website đăng tin.
-- Website membership.
-- Website subscription.
-- Website SaaS.
-- Landing page.
-- Blog và hệ thống quản lý nội dung.
-- Trang quản trị Admin.
-- Dashboard thống kê.
-- Portal dành cho khách hàng.
-- Portal dành cho nhân viên.
-- Hệ thống ticket hỗ trợ.
-- Hệ thống quản lý tài liệu.
-- Hệ thống quản lý nội dung đa kênh.
-- Website tích hợp chatbot AI.
-- Website tích hợp thanh toán.
-- Website tích hợp API bên thứ ba.
-- Website đa ngôn ngữ.
-- Website responsive cho desktop, tablet và mobile.
-
----
-
-## Phát triển ứng dụng và phần mềm
-
-Các loại ứng dụng mình quan tâm:
-
-- Ứng dụng desktop.
-- Phần mềm quản lý nội bộ.
-- Ứng dụng quản lý khách hàng.
-- Ứng dụng quản lý nhân viên.
-- Ứng dụng quản lý sản phẩm.
-- Ứng dụng quản lý kho.
-- Ứng dụng quản lý doanh thu.
-- Ứng dụng quản lý đơn hàng.
-- Ứng dụng xử lý dữ liệu.
-- Ứng dụng đồng bộ dữ liệu.
-- Ứng dụng báo cáo.
-- Ứng dụng quản trị hệ thống.
-- Ứng dụng tích hợp API.
-- Ứng dụng chatbot.
-- Ứng dụng hỗ trợ chăm sóc khách hàng.
-- Ứng dụng xử lý Excel và CSV.
-- Ứng dụng quản lý tài khoản.
-- Ứng dụng theo dõi tác vụ.
-- Ứng dụng thông báo thời gian thực.
-- Công cụ dành cho đội ngũ vận hành.
-- Công cụ hỗ trợ quy trình MMO.
-- Công cụ tích hợp AI.
-- Phần mềm SaaS đa người dùng.
-
----
-
-## Phát triển API và backend
-
-Mình tập trung xây dựng backend có cấu trúc rõ ràng, dễ bảo trì và có khả năng mở rộng.
-
-Các nội dung chính:
-
-- RESTful API.
-- JSON API.
-- API Authentication.
-- JWT Authentication.
-- OAuth 2.0.
-- API Key.
-- Refresh Token.
-- Role-based Access Control.
-- Permission-based Access Control.
-- Session và Cookie.
-- Rate Limiting.
-- Request Validation.
-- Error Handling.
-- Logging.
-- Audit Log.
-- Webhook.
-- WebSocket.
-- Background Job.
-- Scheduled Task.
-- Queue.
-- Cache.
-- File Upload.
-- Import và Export dữ liệu.
-- API Documentation.
-- Swagger và OpenAPI.
-- Pagination.
-- Filtering.
-- Searching.
-- Sorting.
-- Versioning.
-- Multi-tenant Architecture.
-- Microservice cơ bản.
-- Đồng bộ dữ liệu.
-- Tích hợp cổng thanh toán.
-- Tích hợp email và SMS.
-- Tích hợp mạng xã hội.
-- Tích hợp dịch vụ AI.
-
----
-
-## Chuyên sâu Python
-
-Python là một trong những ngôn ngữ mình tập trung phát triển chuyên sâu nhất.
-
-### Python Backend
-
-- FastAPI.
-- Django.
-- Django REST Framework.
-- Flask.
-- Pydantic.
-- SQLAlchemy.
-- Alembic.
-- RESTful API.
-- WebSocket.
-- AsyncIO.
-- Background Task.
-- Middleware.
-- Dependency Injection.
-- Repository Pattern.
-- Service Layer.
-- Clean Architecture.
-- Authentication và Authorization.
-- JWT.
-- OAuth.
-- Logging.
-- Testing.
-- Error Handling.
-- API Documentation.
-- Microservice cơ bản.
-
-### Python Automation
-
-- Selenium.
-- Playwright.
-- Requests.
-- HTTPX.
-- Beautiful Soup.
-- LXML.
-- Schedule.
-- APScheduler.
-- Webhook.
-- Telegram Bot.
-- Discord Bot.
-- File Automation.
-- Excel Automation.
-- Email Automation.
-- Browser Automation.
-- Data Synchronization.
-- Task Queue.
-- Cron Job.
-- Tự động hóa báo cáo.
-- Tự động hóa quy trình nhập liệu.
-- Tự động gửi thông báo.
-- Tự động sao lưu dữ liệu.
-- Tự động kiểm tra trạng thái dịch vụ.
-
-### Python Data
-
-- NumPy.
-- Pandas.
-- Matplotlib.
-- Xử lý CSV.
-- Xử lý Excel.
-- Làm sạch dữ liệu.
-- Chuyển đổi dữ liệu.
-- Tổng hợp báo cáo.
-- Phân tích dữ liệu cơ bản.
-- Trực quan hóa dữ liệu.
-- Xuất báo cáo tự động.
-- Kiểm tra và đối soát dữ liệu.
-
-### Python AI
-
-- OpenAI API.
-- Gemini API.
-- Chatbot.
-- Prompt Engineering.
-- Text Processing.
-- Semantic Search.
-- Embedding.
-- Vector Database.
-- Retrieval-Augmented Generation.
-- Tóm tắt nội dung.
-- Phân loại nội dung.
-- Trích xuất dữ liệu.
-- Trợ lý chăm sóc khách hàng.
-- AI Agent cơ bản.
-- Workflow tích hợp AI.
-- AI cho website và ứng dụng.
-
----
-
-## Chuyên sâu PHP
-
-PHP được sử dụng để phát triển website dịch vụ, backend, trang quản trị và hệ thống quản lý.
-
-### PHP Backend
-
-- PHP Native.
-- PHP OOP.
-- Laravel.
-- MVC Architecture.
-- Routing.
-- Middleware.
-- Authentication.
-- Authorization.
-- Validation.
-- Session.
-- Cookie.
-- RESTful API.
-- File Upload.
-- Queue.
-- Job.
-- Event.
-- Listener.
-- Notification.
-- Cron Job.
-- Email.
-- API Integration.
-- Payment Integration.
-- Logging.
-- Cache.
-- Testing cơ bản.
-
-### Hệ thống PHP
-
-- Website dịch vụ MMO.
-- Website bán hàng.
-- Website quản lý đơn hàng.
-- Hệ thống tài khoản người dùng.
-- Hệ thống số dư.
-- Lịch sử giao dịch.
-- Cổng thanh toán.
-- Hệ thống cộng tác viên.
-- Hệ thống đại lý.
-- Admin Dashboard.
-- Ticket Support.
-- Quản lý sản phẩm.
-- Quản lý khách hàng.
-- Quản lý mã giảm giá.
-- Quản lý thông báo.
-- Phân quyền người dùng.
-- Quản lý cấu hình hệ thống.
-- Tích hợp API nhà cung cấp.
-- Đồng bộ trạng thái đơn hàng.
-- Báo cáo doanh thu.
-
----
-
-## Chuyên sâu JavaScript
-
-JavaScript được sử dụng cho cả frontend và backend.
-
-### JavaScript Frontend
-
-- JavaScript ES6+.
-- DOM Manipulation.
-- Fetch API.
-- AJAX.
-- Local Storage.
-- Session Storage.
-- Form Validation.
-- Responsive Navigation.
-- Interactive Dashboard.
-- Data Table.
-- Chart và Visualization.
-- Realtime Interface.
-- Component Architecture.
-- State Management.
-- React.
-- Next.js.
-- Single Page Application.
-- Progressive Web App cơ bản.
-
-### JavaScript Backend
-
-- Node.js.
-- Express.js.
-- RESTful API.
-- Middleware.
-- JWT Authentication.
-- WebSocket.
-- Socket.IO.
-- File Upload.
-- API Integration.
-- Webhook.
-- Background Job.
-- MongoDB Integration.
-- MySQL Integration.
-- PostgreSQL Integration.
-- Redis Integration.
-- Queue.
-- Realtime Notification.
-- Server-side Rendering.
-- API Gateway cơ bản.
-
----
-
-## HTML và CSS
-
-Mình chú trọng xây dựng giao diện rõ ràng, responsive và dễ sử dụng.
-
-### HTML
-
-- HTML5.
-- Semantic HTML.
-- Form.
-- Table.
-- SEO Structure.
-- Accessibility.
-- Metadata.
-- Open Graph.
-- Responsive Layout.
-- Component Structure.
-- Landing Page Structure.
-- Email Template.
-- Form nhập liệu phức tạp.
-
-### CSS
-
-- CSS3.
-- Flexbox.
-- CSS Grid.
-- Responsive Design.
-- Animation.
-- Transition.
-- Media Query.
-- CSS Variable.
-- Dark Mode.
-- Mobile First.
-- Bootstrap.
-- Tailwind CSS.
-- Layout Dashboard.
-- UI Component.
-- Form Design.
-- Table Design.
-- Landing Page Design.
-- Tối ưu hiển thị đa thiết bị.
-
----
-
-## C# và ASP.NET Core
-
-- C#.
-- Lập trình hướng đối tượng.
-- ASP.NET Core MVC.
-- ASP.NET Core Web API.
-- Entity Framework Core.
-- LINQ.
-- Dependency Injection.
-- Identity.
-- JWT Authentication.
-- Role và Permission.
-- SQL Server.
-- Clean Architecture.
-- Repository Pattern.
-- Service Layer.
-- Windows Forms.
-- Ứng dụng desktop.
-- Phần mềm quản lý.
-- Xử lý dữ liệu.
-- Logging và Validation.
-
----
-
-## Cơ sở dữ liệu
-
-Mình quan tâm đến thiết kế và tối ưu cơ sở dữ liệu cho các hệ thống quản lý và dịch vụ.
-
-- SQL Server.
-- MySQL.
-- PostgreSQL.
-- MongoDB.
-- SQLite.
-- Redis.
-- Thiết kế bảng và quan hệ dữ liệu.
-- Chuẩn hóa dữ liệu.
-- Index.
-- Query Optimization.
-- Transaction.
-- Stored Procedure.
-- View.
-- Trigger cơ bản.
-- Migration.
-- Backup và Restore.
-- Phân quyền truy cập dữ liệu.
-- Cache dữ liệu.
-- Audit Log.
-- Soft Delete.
-- Data Seeding.
-- Import và Export dữ liệu.
-- Đối soát dữ liệu.
-- Thiết kế cơ sở dữ liệu đa người dùng.
-- Thiết kế dữ liệu cho hệ thống SaaS.
-
----
-
-## Frontend và giao diện người dùng
-
-- React.
-- Next.js.
-- JavaScript.
-- TypeScript.
-- HTML5.
-- CSS3.
-- Tailwind CSS.
-- Bootstrap.
-- Responsive Design.
-- Mobile First.
-- Dashboard UI.
-- Admin Panel.
-- Form Validation.
-- Data Table.
-- Pagination.
-- Search và Filter.
-- Chart.
-- Modal.
-- Notification.
-- Authentication UI.
-- Role-based UI.
-- Dark Mode.
-- Loading State.
-- Error State.
-- Empty State.
-- Realtime Data.
-- Tối ưu trải nghiệm người dùng.
-
----
-
-## Automation và bot
-
-- Telegram Bot.
-- Discord Bot.
-- Facebook Messenger integration phù hợp chính sách.
-- Bot bán hàng.
-- Bot nhận đơn.
-- Bot gửi thông báo.
-- Bot chăm sóc khách hàng.
-- Bot quản trị.
-- Bot tạo ticket.
-- Bot kiểm tra trạng thái.
-- Bot báo cáo doanh thu.
-- Bot phân quyền.
-- Bot quản lý mã giảm giá.
-- Bot kết nối API.
-- Browser Automation.
-- Excel Automation.
-- Email Automation.
-- Data Automation.
-- Workflow Automation.
-- Tác vụ định kỳ.
-- Đồng bộ dữ liệu tự động.
-- Báo cáo tự động.
-- Sao lưu tự động.
-- Theo dõi dịch vụ.
-- Cảnh báo lỗi hệ thống.
-- Tự động kiểm tra endpoint.
-- Tự động xử lý hàng đợi công việc.
-
----
-
-## AI Integration
-
-- OpenAI API.
-- Gemini API.
-- Chatbot AI.
-- Trợ lý chăm sóc khách hàng.
-- Trợ lý nội bộ.
-- Tóm tắt nội dung.
-- Trích xuất thông tin.
-- Phân loại dữ liệu.
-- Sinh nội dung.
-- Semantic Search.
-- Embedding.
-- Vector Database.
-- Retrieval-Augmented Generation.
-- Knowledge Base.
-- Prompt Management.
-- Conversation History.
-- Moderation.
-- Rate Limiting.
-- Theo dõi chi phí API.
-- Quản lý token.
-- AI Workflow.
-- AI Agent cơ bản.
-- Tích hợp AI vào website.
-- Tích hợp AI vào ứng dụng.
-- Tích hợp AI vào Telegram Bot.
-- Tích hợp AI vào hệ thống ticket.
-
----
-
-## Bảo mật ứng dụng
-
-- Xác thực người dùng.
-- Phân quyền theo vai trò.
-- Phân quyền theo chức năng.
-- JWT và Refresh Token.
-- OAuth.
-- Xác thực hai lớp.
-- Hash mật khẩu.
-- Mã hóa dữ liệu nhạy cảm.
-- Chống SQL Injection.
-- Chống Cross-Site Scripting.
-- Chống Cross-Site Request Forgery.
-- Rate Limiting.
-- Kiểm tra dữ liệu đầu vào.
-- Quản lý session.
-- Audit Log.
-- Security Header.
-- CORS.
-- Quản lý secret.
-- Environment Variable.
-- Backup dữ liệu.
-- Recovery Plan.
-- Kiểm tra quyền truy cập.
-- Giới hạn file upload.
-- Nhật ký đăng nhập.
-- Cảnh báo đăng nhập bất thường.
-- Phân quyền API.
-- Bảo vệ endpoint quản trị.
-
----
-
-## DevOps và triển khai
-
-- Git.
-- GitHub.
-- GitHub Actions.
-- Docker.
-- Docker Compose.
-- Linux.
-- Ubuntu Server.
-- VPS.
-- Nginx.
-- Apache.
-- Cloudflare.
-- Vercel.
-- Render.
-- GitHub Pages.
-- Domain và DNS.
-- SSL/TLS.
-- Reverse Proxy.
-- Environment Configuration.
-- Process Management.
-- Log Management.
-- Backup.
-- Monitoring cơ bản.
-- CI/CD cơ bản.
-- Deployment frontend.
-- Deployment backend.
-- Deployment database.
-- Cấu hình webhook.
-- Tự động cập nhật dữ liệu thống kê GitHub.
-
----
-
-## Công cụ phát triển
-
-- Visual Studio Code.
-- Visual Studio.
-- PyCharm.
-- Postman.
-- GitHub Desktop.
-- Git.
-- GitHub.
-- Docker Desktop.
-- MySQL Workbench.
-- SQL Server Management Studio.
-- DBeaver.
-- Figma cơ bản.
-- Linux Terminal.
-- Windows Terminal.
-- Chrome DevTools.
-- Swagger.
-- OpenAPI.
-- Composer.
-- NPM.
-- Pip.
-- Virtual Environment.
-
----
-
-## Các hệ thống mình có thể xây dựng
-
-- Website dịch vụ Facebook và TikTok.
-- Website dịch vụ mạng xã hội.
-- Website dịch vụ MMO.
-- Website bán hàng.
-- Website thương mại điện tử.
-- Website quản lý đơn hàng.
-- Landing page.
-- Trang quản trị Admin.
-- Hệ thống tài khoản người dùng.
-- Hệ thống đăng nhập và đăng ký.
-- Hệ thống phân quyền.
-- Hệ thống số dư.
-- Hệ thống nạp tiền.
-- Hệ thống thanh toán.
-- Hệ thống lịch sử giao dịch.
-- Hệ thống cộng tác viên.
-- Hệ thống đại lý.
-- Hệ thống reseller.
-- Hệ thống voucher.
-- Hệ thống mã giảm giá.
-- Hệ thống ticket.
-- Hệ thống CRM.
-- Hệ thống CMS.
-- Hệ thống quản lý kho.
-- Hệ thống quản lý sản phẩm.
-- Hệ thống quản lý khách hàng.
-- Hệ thống quản lý nhân viên.
-- Hệ thống quản lý sinh viên.
-- Hệ thống quản lý doanh thu.
-- Hệ thống quản lý nội dung.
-- Hệ thống quản lý tài liệu.
-- Hệ thống báo cáo.
-- Hệ thống audit log.
-- Hệ thống thông báo.
-- Hệ thống webhook.
-- Hệ thống realtime.
-- RESTful API.
-- Telegram Bot.
-- Chatbot AI.
-- Công cụ Python Automation.
-- Công cụ xử lý Excel.
-- Công cụ đồng bộ dữ liệu.
-- Dashboard thống kê.
-- Ứng dụng desktop.
-- Ứng dụng quản lý nội bộ.
-- Hệ thống SaaS.
-- Hệ thống multi-tenant.
-- Hệ thống subscription.
-- Hệ thống quản lý API key.
-- Hệ thống theo dõi trạng thái dịch vụ.
-- Hệ thống cảnh báo lỗi.
-- Hệ thống sao lưu dữ liệu.
-- Hệ thống tích hợp AI.
-
----
-
-## Quy trình phát triển sản phẩm
-
-```mermaid
-flowchart LR
-    A[Phân tích yêu cầu] --> B[Thiết kế chức năng]
-    B --> C[Thiết kế giao diện]
-    C --> D[Thiết kế cơ sở dữ liệu]
-    D --> E[Phát triển backend]
-    E --> F[Phát triển frontend]
-    F --> G[Tích hợp API]
-    G --> H[Kiểm thử]
-    H --> I[Bảo mật]
-    I --> J[Triển khai]
-    J --> K[Theo dõi và nâng cấp]
-```
-
----
-
-## Kiến trúc hệ thống tham khảo
-
-```mermaid
-flowchart TD
-    U[Người dùng] --> F[Frontend]
-    F --> A[API Gateway hoặc Backend API]
-    A --> AU[Xác thực và phân quyền]
-    A --> S[Service Layer]
-    S --> D[Database]
-    S --> C[Cache]
-    S --> Q[Job Queue]
-    S --> W[Webhook]
-    S --> AI[Dịch vụ AI]
-    S --> P[Cổng thanh toán]
-    S --> N[Hệ thống thông báo]
-    N --> T[Telegram]
-    N --> M[Email]
-    N --> R[Realtime Notification]
-```
-
----
-
-## Lộ trình phát triển
-
-```mermaid
-flowchart LR
-    A[HTML CSS JavaScript] --> B[Frontend Development]
-    B --> C[Python PHP Node.js C Sharp]
-    C --> D[Database và REST API]
-    D --> E[Authentication và Security]
-    E --> F[Clean Architecture]
-    F --> G[Automation và Bot]
-    G --> H[AI Integration]
-    H --> I[Full-stack Product]
-    I --> J[SaaS và hệ thống MMO]
-```
-
----
-
-## Trọng tâm hiện tại
+## 🌐 Social Media Support
 
 <table>
   <tr>
-    <td width="25%"><strong>Học tập</strong></td>
-    <td>Củng cố kiến thức lập trình, cấu trúc dữ liệu, giải thuật, cơ sở dữ liệu và kỹ thuật phần mềm.</td>
+    <td width="25%" valign="top">
+      <h3 align="center">📘 Facebook</h3>
+      <p>
+        • Khôi phục tài khoản chính chủ<br/>
+        • Kháng nghị vô hiệu hóa<br/>
+        • Support checkpoint<br/>
+        • Support Fanpage<br/>
+        • Meta Business Suite<br/>
+        • Bảo mật tài khoản<br/>
+        • Chatbot và API
+      </p>
+    </td>
+
+    <td width="25%" valign="top">
+      <h3 align="center">🎵 TikTok</h3>
+      <p>
+        • Support tài khoản<br/>
+        • Hướng dẫn kháng nghị<br/>
+        • TikTok Business<br/>
+        • Quản lý nội dung<br/>
+        • Dashboard thống kê<br/>
+        • Landing page<br/>
+        • Tích hợp API
+      </p>
+    </td>
+
+    <td width="25%" valign="top">
+      <h3 align="center">📷 Instagram</h3>
+      <p>
+        • Bảo mật tài khoản<br/>
+        • Khôi phục chính chủ<br/>
+        • Kết nối Fanpage<br/>
+        • Quản lý nội dung<br/>
+        • Tin nhắn tự động<br/>
+        • Instagram Business<br/>
+        • Dashboard dữ liệu
+      </p>
+    </td>
+
+    <td width="25%" valign="top">
+      <h3 align="center">✈️ Telegram</h3>
+      <p>
+        • Telegram Bot<br/>
+        • Bot bán hàng<br/>
+        • Bot nhận đơn<br/>
+        • Bot thông báo<br/>
+        • Quản lý thành viên<br/>
+        • Tích hợp thanh toán<br/>
+        • Telegram API
+      </p>
+    </td>
   </tr>
+
   <tr>
-    <td><strong>Python</strong></td>
-    <td>Backend API, bot, automation, xử lý dữ liệu và AI Integration.</td>
+    <td width="25%" valign="top">
+      <h3 align="center">▶️ YouTube</h3>
+      <p>
+        • Quản lý kênh<br/>
+        • Dashboard thống kê<br/>
+        • Quản lý nội dung<br/>
+        • YouTube Data API<br/>
+        • Tự động lấy dữ liệu<br/>
+        • Theo dõi video<br/>
+        • Báo cáo hiệu suất
+      </p>
+    </td>
+
+    <td width="25%" valign="top">
+      <h3 align="center">💬 Zalo</h3>
+      <p>
+        • Zalo OA<br/>
+        • Quản lý khách hàng<br/>
+        • Gửi thông báo<br/>
+        • Chatbot hỗ trợ<br/>
+        • Website tích hợp Zalo<br/>
+        • Zalo API<br/>
+        • Quản lý tin nhắn
+      </p>
+    </td>
+
+    <td width="25%" valign="top">
+      <h3 align="center">🛒 TikTok Shop</h3>
+      <p>
+        • Dashboard đơn hàng<br/>
+        • Quản lý sản phẩm<br/>
+        • Theo dõi trạng thái<br/>
+        • Báo cáo doanh thu<br/>
+        • Quản lý khách hàng<br/>
+        • Đồng bộ dữ liệu<br/>
+        • Công cụ hỗ trợ vận hành
+      </p>
+    </td>
+
+    <td width="25%" valign="top">
+      <h3 align="center">📊 Social Dashboard</h3>
+      <p>
+        • Tổng hợp dữ liệu<br/>
+        • Theo dõi chỉ số<br/>
+        • Báo cáo tự động<br/>
+        • Quản lý tài khoản<br/>
+        • Phân quyền nhân viên<br/>
+        • Xuất Excel/PDF<br/>
+        • Cảnh báo bất thường
+      </p>
+    </td>
   </tr>
+</table>
+
+---
+
+## 🚀 Dịch vụ phát triển
+
+<table>
   <tr>
-    <td><strong>PHP</strong></td>
-    <td>Website dịch vụ, Laravel, hệ thống quản lý và RESTful API.</td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Website</h3>
+      <p>
+        • Website giới thiệu<br/>
+        • Website bán hàng<br/>
+        • Website dịch vụ MMO<br/>
+        • Website quản lý đơn hàng<br/>
+        • Landing page<br/>
+        • Trang quản trị Admin<br/>
+        • Website responsive<br/>
+        • Website tích hợp API
+      </p>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3 align="center">📱 App & Software</h3>
+      <p>
+        • Ứng dụng desktop<br/>
+        • Phần mềm quản lý<br/>
+        • Ứng dụng nội bộ<br/>
+        • Hệ thống quản lý khách hàng<br/>
+        • Quản lý nhân viên<br/>
+        • Quản lý kho và sản phẩm<br/>
+        • Dashboard báo cáo<br/>
+        • Đồng bộ dữ liệu
+      </p>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3 align="center">🔌 API Development</h3>
+      <p>
+        • RESTful API<br/>
+        • API Authentication<br/>
+        • JWT và phân quyền<br/>
+        • API thanh toán<br/>
+        • API mạng xã hội<br/>
+        • API xử lý dữ liệu<br/>
+        • Webhook<br/>
+        • API Documentation
+      </p>
+    </td>
   </tr>
+
   <tr>
-    <td><strong>JavaScript</strong></td>
-    <td>Frontend, Node.js, dashboard, web app và ứng dụng realtime.</td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Bot</h3>
+      <p>
+        • Telegram Bot<br/>
+        • Facebook Chatbot<br/>
+        • Discord Bot<br/>
+        • Bot bán hàng<br/>
+        • Bot chăm sóc khách hàng<br/>
+        • Bot nhận đơn<br/>
+        • Bot báo cáo<br/>
+        • Bot quản trị
+      </p>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3 align="center">⚙️ Automation</h3>
+      <p>
+        • Python Automation<br/>
+        • Selenium Automation<br/>
+        • Xử lý dữ liệu tự động<br/>
+        • Gửi thông báo tự động<br/>
+        • Đồng bộ dữ liệu<br/>
+        • Tác vụ định kỳ<br/>
+        • Web scraping hợp lệ<br/>
+        • Workflow Automation
+      </p>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 AI Integration</h3>
+      <p>
+        • Chatbot AI<br/>
+        • OpenAI API<br/>
+        • Gemini API<br/>
+        • Trợ lý khách hàng<br/>
+        • Tóm tắt nội dung<br/>
+        • Phân tích dữ liệu<br/>
+        • Sinh nội dung<br/>
+        • AI-powered Application
+      </p>
+    </td>
   </tr>
+</table>
+
+---
+
+# 🧑‍💻 Chuyên sâu lập trình
+
+## 🐍 Python Development
+
+Python là một trong những ngôn ngữ mình tập trung chuyên sâu nhất, đặc biệt trong các hệ thống API, bot, automation và AI.
+
+### Python Backend
+
+- FastAPI
+- Django
+- Django REST Framework
+- Flask
+- RESTful API
+- JWT Authentication
+- OAuth
+- API Key Authentication
+- Middleware
+- Background Tasks
+- WebSocket
+- AsyncIO
+- Dependency Injection
+- Clean Architecture
+- Repository Pattern
+- Service Layer
+- Logging và Error Handling
+
+### Python Automation
+
+- Selenium
+- Playwright
+- Requests
+- Beautiful Soup
+- Schedule
+- APScheduler
+- Webhook
+- Telegram Bot
+- File Automation
+- Excel Automation
+- Email Automation
+- Data Synchronization
+- Task Queue
+- Cron Job
+
+### Python Data và AI
+
+- NumPy
+- Pandas
+- Matplotlib
+- Data Cleaning
+- Data Processing
+- Excel và CSV
+- OpenAI API
+- Gemini API
+- Prompt Engineering
+- Chatbot
+- Text Processing
+- AI Integration
+- Vector Database
+- Semantic Search
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-Microservice-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
+
+---
+
+## 🐘 PHP Development
+
+Mình sử dụng PHP để phát triển website dịch vụ, hệ thống quản lý, API và các trang quản trị.
+
+### PHP Backend
+
+- PHP Native
+- PHP OOP
+- Laravel
+- MVC Architecture
+- Routing
+- Middleware
+- Authentication
+- Authorization
+- Session và Cookie
+- RESTful API
+- Form Validation
+- File Upload
+- Payment Integration
+- Queue và Job
+- Cron Job
+- Email Notification
+- API Integration
+
+### PHP Website Systems
+
+- Website dịch vụ MMO
+- Website bán hàng
+- Website quản lý đơn hàng
+- Hệ thống tài khoản người dùng
+- Hệ thống số dư
+- Lịch sử giao dịch
+- Cổng thanh toán
+- Hệ thống cộng tác viên
+- Hệ thống đại lý
+- Admin Dashboard
+- Ticket Support
+- Quản lý sản phẩm
+- Quản lý khách hàng
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Composer-Package_Manager-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/Apache-Web_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+---
+
+## 🟨 JavaScript Development
+
+JavaScript được sử dụng trong cả frontend và backend để xây dựng ứng dụng web hiện đại, dashboard và hệ thống realtime.
+
+### JavaScript Frontend
+
+- JavaScript ES6+
+- DOM Manipulation
+- Fetch API
+- AJAX
+- Local Storage
+- Session Storage
+- Form Validation
+- Responsive Navigation
+- Interactive Dashboard
+- Data Table
+- Chart và Visualization
+- Realtime Interface
+- React
+- Next.js
+- Component Architecture
+- State Management
+
+### JavaScript Backend
+
+- Node.js
+- Express.js
+- RESTful API
+- Middleware
+- JWT Authentication
+- WebSocket
+- Socket.IO
+- File Upload
+- API Integration
+- Webhook
+- Background Job
+- MongoDB Integration
+- MySQL Integration
+- Redis Integration
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Fullstack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+---
+
+## 🟧 HTML và CSS
+
+Mình tập trung xây dựng giao diện rõ ràng, responsive, thân thiện với người dùng và tương thích với nhiều thiết bị.
+
+### HTML
+
+- Semantic HTML
+- HTML5
+- Form
+- Table
+- SEO Structure
+- Accessibility
+- Metadata
+- Open Graph
+- Responsive Layout
+- Component Structure
+
+### CSS
+
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Animation
+- Transition
+- Media Query
+- CSS Variable
+- Dark Mode
+- Bootstrap
+- Tailwind CSS
+- Mobile First
+- UI Component
+- Landing Page Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-Web_Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Web_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-UI-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+---
+
+## 🔷 C# và ASP.NET Core
+
+- C#
+- Object-Oriented Programming
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- Entity Framework Core
+- LINQ
+- Dependency Injection
+- Identity
+- JWT Authentication
+- Role và Permission
+- SQL Server
+- Clean Architecture
+- Repository Pattern
+- Desktop Application
+- Windows Forms
+- Software Management System
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-Programming-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
+</p>
+
+---
+
+## 🛠️ Toàn bộ công nghệ và công cụ
+
+### 💻 Ngôn ngữ lập trình
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+### 🗄️ Cơ sở dữ liệu
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### 🤖 Automation, Data và AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+</p>
+
+### 🔧 Công cụ phát triển
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### ☁️ Hosting và triển khai
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 🧩 Các loại dự án mình có thể xây dựng
+
+- Website dịch vụ Facebook và TikTok
+- Website dịch vụ MMO
+- Website bán hàng
+- Website thương mại điện tử
+- Website quản lý đơn hàng
+- Landing page giới thiệu dịch vụ
+- Hệ thống quản lý khách hàng
+- Hệ thống quản lý cộng tác viên
+- Hệ thống quản lý đại lý
+- Hệ thống số dư người dùng
+- Hệ thống nạp tiền và thanh toán
+- Lịch sử giao dịch
+- Admin Dashboard
+- Phân quyền người dùng
+- Ticket Support
+- Phần mềm quản lý sinh viên
+- Phần mềm quản lý nhân viên
+- Phần mềm quản lý kho
+- Phần mềm quản lý sản phẩm
+- Phần mềm quản lý doanh thu
+- RESTful API
+- API cho ứng dụng mobile
+- API mạng xã hội
+- Telegram Bot
+- Facebook Chatbot
+- Bot bán hàng
+- Bot chăm sóc khách hàng
+- Bot nhận đơn
+- Bot gửi thông báo
+- Công cụ automation Python
+- Công cụ xử lý Excel
+- Dashboard thống kê
+- Chatbot tích hợp AI
+- Hệ thống phân tích dữ liệu
+- Ứng dụng desktop
+- Ứng dụng quản lý nội bộ
+- Hệ thống SaaS
+- Webhook và hệ thống realtime
+
+---
+
+## 🎯 Trọng tâm hiện tại
+
+<table>
   <tr>
-    <td><strong>HTML và CSS</strong></td>
-    <td>Giao diện responsive, landing page, admin dashboard và trải nghiệm người dùng.</td>
+    <td>🎓 <strong>Học tập</strong></td>
+    <td>Củng cố kiến thức lập trình, cấu trúc dữ liệu, cơ sở dữ liệu và phát triển phần mềm.</td>
   </tr>
+
   <tr>
-    <td><strong>C#</strong></td>
-    <td>ASP.NET Core, Web API, Entity Framework Core và ứng dụng quản lý.</td>
+    <td>🐍 <strong>Python</strong></td>
+    <td>API, bot, automation, xử lý dữ liệu và tích hợp AI.</td>
   </tr>
+
   <tr>
-    <td><strong>Kiến trúc</strong></td>
-    <td>Clean Code, Clean Architecture, Repository Pattern, Service Layer và Design Pattern.</td>
+    <td>🐘 <strong>PHP</strong></td>
+    <td>Website dịch vụ, hệ thống quản lý, Laravel và RESTful API.</td>
   </tr>
+
   <tr>
-    <td><strong>AI</strong></td>
-    <td>OpenAI API, Gemini API, chatbot, RAG và AI-powered Applications.</td>
+    <td>🟨 <strong>JavaScript</strong></td>
+    <td>Frontend, Node.js, dashboard và ứng dụng realtime.</td>
   </tr>
+
   <tr>
-    <td><strong>Social Support</strong></td>
-    <td>Khôi phục chính chủ, bảo mật, kháng nghị và quản lý tài sản mạng xã hội hợp pháp.</td>
+    <td>🌐 <strong>HTML/CSS</strong></td>
+    <td>Giao diện responsive, landing page và trải nghiệm người dùng.</td>
   </tr>
+
   <tr>
-    <td><strong>MMO</strong></td>
+    <td>🏗️ <strong>Kiến trúc</strong></td>
+    <td>Clean Code, Clean Architecture, Design Pattern và RESTful API.</td>
+  </tr>
+
+  <tr>
+    <td>🤖 <strong>AI</strong></td>
+    <td>LLM, chatbot, OpenAI API, Gemini API và AI-powered Applications.</td>
+  </tr>
+
+  <tr>
+    <td>📱 <strong>Social Support</strong></td>
+    <td>Khôi phục chính chủ, bảo mật, kháng nghị và quản lý nền tảng mạng xã hội.</td>
+  </tr>
+
+  <tr>
+    <td>📈 <strong>MMO</strong></td>
     <td>Xây dựng hệ thống, website và công cụ hỗ trợ vận hành dịch vụ số.</td>
   </tr>
 </table>
 
 ---
 
-## Nguyên tắc làm việc
+## 🗺️ Quy trình phát triển sản phẩm
 
-- Tìm hiểu kỹ yêu cầu trước khi phát triển.
-- Ưu tiên giải pháp rõ ràng và dễ bảo trì.
-- Không thu thập dữ liệu trái phép.
-- Không xây dựng công cụ phishing hoặc chiếm đoạt tài khoản.
-- Không hỗ trợ vượt qua cơ chế bảo mật.
-- Bảo vệ thông tin và dữ liệu khách hàng.
-- Hạn chế quyền truy cập theo đúng vai trò.
-- Sao lưu dữ liệu quan trọng.
-- Ghi lại lịch sử thao tác cần thiết.
-- Kiểm tra lỗi trước khi triển khai.
-- Theo dõi hệ thống sau khi đưa vào sử dụng.
-- Tối ưu dần dựa trên dữ liệu vận hành thực tế.
+```mermaid
+flowchart LR
+    A[Phân tích yêu cầu] --> B[Thiết kế giao diện]
+    B --> C[Thiết kế Database]
+    C --> D[Phát triển Backend]
+    D --> E[Phát triển Frontend]
+    E --> F[Tích hợp API]
+    F --> G[Kiểm thử và bảo mật]
+    G --> H[Triển khai hệ thống]
+    H --> I[Theo dõi và nâng cấp]
+```
 
 ---
 
-## GitHub Profile Summary
+## 🧭 Lộ trình phát triển
+
+```mermaid
+flowchart LR
+    A[HTML CSS JavaScript] --> B[Frontend Development]
+    B --> C[Python PHP Node.js]
+    C --> D[Database và REST API]
+    D --> E[Clean Architecture]
+    E --> F[Automation và Bot]
+    F --> G[AI Integration]
+    G --> H[Full-stack Product]
+    H --> I[SaaS và MMO Systems]
+```
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=minhquan247&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+  width="100%"
+  alt="Minh Quân GitHub Trophy"
+/>
+
+</div>
+
+---
+
+## 📊 Tổng quan GitHub
 
 <div align="center">
 
 <img
   src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
   width="100%"
-  alt="GitHub profile details"
+  alt="Minh Quân GitHub Profile Details"
 />
 
 <br/>
@@ -1046,13 +922,13 @@ flowchart LR
 <img
   src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
   width="49%"
-  alt="Repositories per language"
+  alt="Repositories Per Language"
 />
 
 <img
   src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
   width="49%"
-  alt="Most committed languages"
+  alt="Most Commit Language"
 />
 
 <br/>
@@ -1060,76 +936,76 @@ flowchart LR
 <img
   src="./profile-summary-card-output/tokyonight/3-stats.svg"
   width="49%"
-  alt="GitHub statistics"
+  alt="GitHub Statistics"
 />
 
 <img
   src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
   width="49%"
-  alt="Productive time"
+  alt="Productive Time"
 />
 
 </div>
 
 ---
 
-## GitHub Metrics
+## 🔥 Chuỗi đóng góp
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=minhquan247&theme=tokyonight&hide_border=true&locale=vi&date_format=j%20M%5B%20Y%5D"
+  width="75%"
+  alt="Minh Quân GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 📈 Biểu đồ hoạt động GitHub
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=minhquan247&theme=tokyo-night&hide_border=true&area=true&custom_title=Bi%E1%BB%83u%20%C4%91%E1%BB%93%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20Minh%20Qu%C3%A2n"
+  width="100%"
+  alt="Minh Quân GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## 📐 GitHub Metrics
 
 <div align="center">
 
 <img
   src="./github-metrics.svg"
   width="100%"
-  alt="GitHub metrics"
+  alt="Minh Quân GitHub Metrics"
 />
 
 </div>
 
 ---
 
-## Coding Habits
-
-<div align="center">
-
-<img
-  src="./metrics.plugin.habits.svg"
-  width="100%"
-  alt="Coding habits"
-/>
-
-</div>
-
----
-
-## Contribution Calendar
+## 🗓️ Lịch đóng góp cả năm
 
 <div align="center">
 
 <img
   src="./metrics.plugin.isocalendar.fullyear.svg"
   width="100%"
-  alt="Full year contribution calendar"
+  alt="Minh Quân Full Year Contribution Calendar"
 />
 
 </div>
 
 ---
 
-## 3D Contribution Graph
-
-<div align="center">
-
-<img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="3D contribution graph"
-/>
-
-</div>
-
----
-
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -1138,14 +1014,16 @@ flowchart LR
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/minhquan247/minhquan247/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/minhquan247/minhquan247/output/github-contribution-grid-snake.svg"
   />
+
   <img
     src="https://raw.githubusercontent.com/minhquan247/minhquan247/output/github-contribution-grid-snake.svg"
     width="100%"
-    alt="Contribution snake"
+    alt="Minh Quân GitHub Contribution Snake"
   />
 </picture>
 
@@ -1153,46 +1031,64 @@ flowchart LR
 
 ---
 
-## Hợp tác
+## 🤝 Hợp tác
 
 Mình sẵn sàng trao đổi và hợp tác trong các dự án liên quan đến:
 
-- Website và web application.
-- Website dịch vụ MMO.
-- Website bán hàng.
-- Hệ thống quản lý.
-- Ứng dụng desktop.
-- Python Automation.
-- PHP và Laravel.
-- JavaScript và Node.js.
-- React và Next.js.
-- ASP.NET Core.
-- RESTful API.
-- Telegram Bot.
-- Dashboard dữ liệu.
-- Chatbot AI.
-- OpenAI API và Gemini API.
-- CRM và hệ thống ticket.
-- Facebook Support chính chủ.
-- TikTok và Social Media Support.
-- Công cụ hỗ trợ vận hành dịch vụ số.
-- Tích hợp API và webhook.
-- Hệ thống SaaS.
-- Hệ thống quản lý khách hàng, cộng tác viên và đại lý.
+- Website và web application
+- Website dịch vụ MMO
+- Phần mềm quản lý
+- Ứng dụng desktop
+- Facebook Support chính chủ
+- TikTok và Social Media Support
+- Hệ thống quản trị mạng xã hội
+- Python Automation
+- PHP và Laravel
+- JavaScript và Node.js
+- RESTful API
+- Telegram Bot
+- Dashboard và xử lý dữ liệu
+- Chatbot và tích hợp AI
+- Công cụ hỗ trợ kinh doanh trực tuyến
+- Hệ thống quản lý khách hàng
+- Hệ thống cộng tác viên và đại lý
 
 ---
 
-## Liên hệ
-
-- GitHub: [minhquan247](https://github.com/minhquan247)
-- Telegram: [minhquan2006](https://t.me/minhquan2006)
-
-Mình luôn sẵn sàng học hỏi, trao đổi kiến thức và kết nối với những người có cùng định hướng về lập trình, MMO, tự động hóa và công nghệ.
-
----
+## 📫 Kết nối với mình
 
 <div align="center">
 
-<strong>Cảm ơn bạn đã ghé thăm GitHub Profile của mình.</strong>
+<a href="https://github.com/minhquan247">
+  <img
+    src="https://img.shields.io/badge/GitHub-minhquan247-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+    alt="Minh Quân GitHub"
+  />
+</a>
+
+<a href="https://t.me/minhquan2006">
+  <img
+    src="https://img.shields.io/badge/Telegram-minhquan2006-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"
+    alt="Minh Quân Telegram"
+  />
+</a>
+
+<br/><br/>
+
+💬 Mình luôn sẵn sàng học hỏi, trao đổi kiến thức và kết nối với những người có cùng đam mê về lập trình, MMO và công nghệ.
+
+<br/><br/>
+
+<sub>
+  ✨ Cảm ơn bạn đã ghé thăm GitHub Profile của mình!
+</sub>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:0D1117&height=120&section=footer"
+  width="100%"
+  alt="Minh Quân Profile Footer"
+/>
 
 </div>
