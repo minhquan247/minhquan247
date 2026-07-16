@@ -5,15 +5,31 @@
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Qu%C3%A2n%21+%F0%9F%91%8B;Full-stack+Developer+%E2%80%A2+Python+%E2%80%A2+ASP.NET+Core;X%C3%A2y+d%E1%BB%B1ng+Website+%E2%80%A2+Ph%E1%BA%A7n+m%E1%BB%81m+%E2%80%A2+C%C3%B4ng+c%E1%BB%A5+t%E1%BB%B1+%C4%91%E1%BB%99ng+h%C3%B3a"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Qu%C3%A2n%21+%F0%9F%91%8B;Sinh+vi%C3%AAn+n%C4%83m+2+t%E1%BA%A1i+ICTU+%F0%9F%8E%93;Full-stack+Developer+%E2%80%A2+Python+%E2%80%A2+ASP.NET+Core;Website+%E2%80%A2+Ph%E1%BA%A7n+m%E1%BB%81m+%E2%80%A2+Automation+%E2%80%A2+AI"
 alt="Typing introduction"
 />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Currently_Coding-22D3EE?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" alt="Currently Coding" />
-<img src="https://img.shields.io/badge/Focus-Python_%26_Web_Development-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python and Web Development" />
-<img src="https://komarev.com/ghpvc/?username=minhquan247&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+<img
+src="https://img.shields.io/badge/Status-Student_%26_Developer-22D3EE?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"
+alt="Student and Developer"
+/>
+
+<img
+src="https://img.shields.io/badge/Education-ICTU-8B5CF6?style=for-the-badge&logo=graduationcap&logoColor=white&labelColor=0D1117"
+alt="ICTU Student"
+/>
+
+<img
+src="https://img.shields.io/badge/Focus-Python_%26_Web_Development-38BDF8?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"
+alt="Python and Web Development"
+/>
+
+<img
+src="https://komarev.com/ghpvc/?username=minhquan247&label=Profile%20Views&color=22D3EE&style=for-the-badge"
+alt="Profile Views"
+/>
 
 </div>
 
@@ -21,15 +37,37 @@ alt="Typing introduction"
 
 ## 👨‍💻 Giới thiệu
 
-Xin chào, mình là **Minh Quân**, một lập trình viên trẻ tại **Hà Nội, Việt Nam**.
+Xin chào, mình là **Minh Quân**, hiện đang là **sinh viên năm 2 tại ICTU** và đang từng bước phát triển bản thân theo định hướng trở thành một **Full-stack Developer**.
 
-Mình tập trung phát triển **website**, **phần mềm quản lý**, **công cụ tự động hóa** và các ứng dụng tích hợp **AI**. Mình yêu thích việc biến ý tưởng thành sản phẩm thực tế bằng mã nguồn rõ ràng, giao diện hiện đại và kiến trúc dễ mở rộng.
+Mình yêu thích lập trình và công nghệ, đặc biệt quan tâm đến việc xây dựng **website**, **phần mềm quản lý**, **RESTful API**, **công cụ tự động hóa** và các ứng dụng tích hợp **trí tuệ nhân tạo**.
 
-* 🔭 Đang xây dựng các dự án bằng **Python**, **ASP.NET Core** và **MERN Stack**
-* 🌱 Đang học sâu hơn về **FastAPI**, **Clean Architecture**, **RESTful API** và **AI Integration**
+Trong quá trình học tập và thực hiện dự án cá nhân, mình luôn hướng đến việc viết mã nguồn rõ ràng, xây dựng giao diện hiện đại và thiết kế hệ thống có khả năng bảo trì, mở rộng trong tương lai.
+
+* 🎓 Sinh viên năm 2 tại **ICTU**
+* 🔭 Đang phát triển các dự án với **Python**, **ASP.NET Core** và **MERN Stack**
+* 🌱 Đang học sâu hơn về **FastAPI**, **Clean Architecture** và **RESTful API**
 * 🤖 Quan tâm đến **Automation**, **LLM**, **OpenAI API** và **Gemini API**
-* 🎯 Mục tiêu: Trở thành **Full-stack Developer** có khả năng xây dựng sản phẩm hoàn chỉnh
-* ⚡ Sở thích: Lập trình, công nghệ, phần cứng và phát triển các công cụ hữu ích
+* 💡 Yêu thích việc biến ý tưởng thành các sản phẩm và công cụ thực tế
+* 🎯 Mục tiêu trở thành một **Full-stack Developer** có khả năng xây dựng sản phẩm hoàn chỉnh
+* ⚡ Sở thích: Lập trình, công nghệ, phần cứng và nghiên cứu các công cụ mới
+
+---
+
+## 🚀 Định hướng phát triển
+
+```text
+Frontend Development
+        ↓
+Backend Development
+        ↓
+Database & System Design
+        ↓
+Automation & AI Integration
+        ↓
+Full-stack Applications
+```
+
+Mục tiêu của mình không chỉ là học cách sử dụng các công nghệ, mà còn hiểu rõ cách chúng hoạt động và kết hợp chúng để xây dựng những sản phẩm có giá trị thực tế.
 
 ---
 
@@ -39,7 +77,7 @@ Mình tập trung phát triển **website**, **phần mềm quản lý**, **côn
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -99,22 +137,54 @@ Mình tập trung phát triển **website**, **phần mềm quản lý**, **côn
 
 <table>
   <tr>
+    <td>🎓 <strong>Học tập</strong></td>
+    <td>Củng cố kiến thức lập trình, cơ sở dữ liệu, cấu trúc dữ liệu và phát triển phần mềm</td>
+  </tr>
+  <tr>
     <td>🐍 <strong>Python</strong></td>
-    <td>API, Automation, xử lý dữ liệu và tích hợp AI</td>
+    <td>Xây dựng API, công cụ tự động hóa, xử lý dữ liệu và tích hợp AI</td>
   </tr>
   <tr>
     <td>🌐 <strong>Web Development</strong></td>
-    <td>ASP.NET Core, React, Node.js, FastAPI và Django</td>
+    <td>Phát triển ứng dụng với ASP.NET Core, React, Node.js, FastAPI và Django</td>
   </tr>
   <tr>
-    <td>🏗️ <strong>Kiến trúc</strong></td>
-    <td>Clean Code, Clean Architecture và RESTful API</td>
+    <td>🏗️ <strong>Kiến trúc phần mềm</strong></td>
+    <td>Clean Code, Clean Architecture, RESTful API và thiết kế hệ thống dễ mở rộng</td>
   </tr>
   <tr>
-    <td>🤖 <strong>AI</strong></td>
-    <td>LLM, OpenAI API, Gemini API và AI-powered Applications</td>
+    <td>🤖 <strong>AI Integration</strong></td>
+    <td>LLM, OpenAI API, Gemini API và các ứng dụng sử dụng trí tuệ nhân tạo</td>
   </tr>
 </table>
+
+---
+
+## 📚 Những điều đang học
+
+* Cấu trúc dữ liệu và giải thuật
+* Lập trình hướng đối tượng
+* Phát triển RESTful API
+* Xác thực và phân quyền người dùng
+* Clean Code và Clean Architecture
+* Thiết kế và quản lý cơ sở dữ liệu
+* Triển khai ứng dụng web
+* Tích hợp AI vào website và phần mềm
+* Git, GitHub và quy trình làm việc nhóm
+
+---
+
+## 💡 Một số loại dự án mình quan tâm
+
+* Website bán hàng và quản lý đơn hàng
+* Hệ thống quản lý sinh viên, nhân viên và khách hàng
+* RESTful API cho ứng dụng web và mobile
+* Telegram Bot và Discord Bot
+* Công cụ tự động hóa bằng Python
+* Web scraping và xử lý dữ liệu
+* Ứng dụng chatbot tích hợp AI
+* Hệ thống quản lý tài khoản và phân quyền
+* Dashboard thống kê và báo cáo dữ liệu
 
 ---
 
@@ -136,7 +206,19 @@ alt="Minh Quân GitHub Streak"
 
 </div>
 
-> Thẻ ngôn ngữ sẽ có dữ liệu chính xác hơn sau khi các repository chứa mã nguồn được đặt ở chế độ công khai.
+<br/>
+
+<div align="center">
+
+<img
+width="55%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan247&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+alt="Most Used Languages"
+/>
+
+</div>
+
+> Thống kê ngôn ngữ sẽ chính xác hơn khi các repository chứa mã nguồn được đặt ở chế độ công khai.
 
 ---
 
@@ -154,23 +236,47 @@ alt="Minh Quân GitHub Activity Graph"
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/minhquan247/minhquan247/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake Animation"
+/>
+
+</div>
+
+---
+
 ## 📫 Kết nối với mình
 
 <div align="center">
 
 <a href="https://github.com/minhquan247">
-  <img src="https://img.shields.io/badge/GitHub-minhquan247-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  <img
+  src="https://img.shields.io/badge/GitHub-minhquan247-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+  alt="GitHub"
+  />
 </a>
 
 <a href="https://t.me/minhquan2006">
-  <img src="https://img.shields.io/badge/Telegram-minhquan2006-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" />
+  <img
+  src="https://img.shields.io/badge/Telegram-minhquan2006-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"
+  alt="Telegram"
+  />
 </a>
 
 <br/><br/>
 
-<sub>✨ Cảm ơn bạn đã ghé thăm GitHub Profile của mình!</sub>
+💬 Mình luôn sẵn sàng học hỏi, trao đổi kiến thức và kết nối với những người có cùng đam mê công nghệ.
 
 <br/>
+
+<sub>✨ Cảm ơn bạn đã ghé thăm GitHub Profile của mình!</sub>
+
+<br/><br/>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:0D1117&height=100&section=footer"
